@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\HARISH\Desktop\ramsupi\ram-supi\src\main.ts */"zUnb");
+module.exports = __webpack_require__(/*! F:\samplewebsite\RamBabuandSupriya.github.io\src\main.ts */"zUnb");
 
 
 /***/ }),
