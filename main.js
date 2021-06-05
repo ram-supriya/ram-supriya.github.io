@@ -87,7 +87,7 @@ function MainPageComponent_img_73_Template(rf, ctx) { if (rf & 1) {
 } }
 class MainPageComponent {
     constructor() {
-        this.countDownDate = new Date("May 27, 2021 01:47:00").getTime();
+        this.countDownDate = new Date("June 19, 2021 23:33:00").getTime();
         this.scores = [0, 0];
         this.player1score = 0;
         this.player2score = 0;
